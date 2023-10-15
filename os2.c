@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // Include the stdlib.h header for the exit function
+#include <stdlib.h>
 #include <unistd.h>
 
 int main() {
